@@ -1,0 +1,1 @@
+/home/max/.emacs.d/.local/straight/repos/xelb/.github/PULL_REQUEST_TEMPLATE.md

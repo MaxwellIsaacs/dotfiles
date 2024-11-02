@@ -1,0 +1,1 @@
+/home/max/.emacs.d/.local/straight/repos/emacs-ccls/ccls-code-lens.el

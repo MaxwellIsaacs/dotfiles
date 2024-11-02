@@ -1,0 +1,1 @@
+/home/max/.emacs.d/.local/straight/repos/opencl-mode/opencl-c-mode.el

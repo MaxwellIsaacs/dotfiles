@@ -1,0 +1,1 @@
+/home/max/.emacs.d/.local/straight/repos/goto-chg/goto-chg.el

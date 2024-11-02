@@ -1,0 +1,1 @@
+/home/max/.emacs.d/.local/straight/repos/seq/seq-25.el

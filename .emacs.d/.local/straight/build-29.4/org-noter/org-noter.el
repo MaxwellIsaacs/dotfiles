@@ -1,0 +1,1 @@
+/home/max/.emacs.d/.local/straight/repos/org-noter/org-noter.el

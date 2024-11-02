@@ -1,0 +1,1 @@
+/home/max/.emacs.d/.local/straight/repos/f.el/f-shortdoc.el

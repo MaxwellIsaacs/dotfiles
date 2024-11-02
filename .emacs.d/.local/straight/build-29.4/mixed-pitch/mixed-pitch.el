@@ -1,0 +1,1 @@
+/home/max/.emacs.d/.local/straight/repos/mixed-pitch/mixed-pitch.el

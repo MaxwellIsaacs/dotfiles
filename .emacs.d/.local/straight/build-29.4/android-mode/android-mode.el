@@ -1,0 +1,1 @@
+/home/max/.emacs.d/.local/straight/repos/android-mode/android-mode.el

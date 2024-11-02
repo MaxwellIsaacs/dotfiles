@@ -1,0 +1,9 @@
+* Perspective #1
+** school
+ - path :: ~/school
+* Perspective main
+** src
+ - path :: ~/dev/COMP250/TerribleLinearAlgebra-Java/src
+* Perspective #2
+** docs
+ - path :: ~/dev/COMP250/TerribleLinearAlgebra-Java/docs

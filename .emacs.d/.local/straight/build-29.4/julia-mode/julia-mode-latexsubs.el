@@ -1,0 +1,1 @@
+/home/max/.emacs.d/.local/straight/repos/julia-emacs/julia-mode-latexsubs.el

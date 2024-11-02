@@ -1,0 +1,1 @@
+/home/max/.emacs.d/.local/straight/repos/exwm/.github/PULL_REQUEST_TEMPLATE.md

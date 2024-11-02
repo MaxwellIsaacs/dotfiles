@@ -1,0 +1,1 @@
+/home/max/.emacs.d/.local/straight/repos/math-symbol-lists/math-symbol-lists.el

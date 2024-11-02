@@ -1,0 +1,1 @@
+/home/max/.emacs.d/.local/straight/repos/evil-tex/evil-tex.el
